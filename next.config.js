@@ -7,12 +7,12 @@ const nextConfig = {
     return [
       {
         source: "/github",
-        destination: "https://github.com/steven-tey/chathn",
+        destination: "https://giftedgpt.vercel.app",
         permanent: true,
       },
       {
         source: "/deploy",
-        destination: "https://vercel.com/templates/next.js/chathn",
+        destination: "http://giftedgpt.vercel.app",
         permanent: true,
       },
     ];
