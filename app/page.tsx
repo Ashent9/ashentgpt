@@ -12,9 +12,9 @@ import Textarea from "react-textarea-autosize";
 import { toast } from "sonner";
 
 const examples = [
-  "Explain the relationship between inflation and unemployment.",
-  "Summarize the play A Doll's House.",
-  "What is the top story on Hacker News right now?",
+  "Explain in Details the Relationship between inflation and Unemployment.",
+  "Summarize the Play A Doll's House.",
+  "What is the top Story on Hacker News Right Now?",
 ];
 
 export default function Chat() {
