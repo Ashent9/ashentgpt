@@ -28,7 +28,7 @@ Gifted ChatGPT is an Open-Source AI chatbot that Uses [OpenAI API Functions](htt
 
 ## Setting Up Locally
 
-To set up ChatHN locally, you'll need to clone the repository and set up the following environment variables:
+To set up Gifted ChatGPT locally, you'll need to clone the repository and set up the following environment variables:
 
 - `OPENAI_API_KEY` – your OpenAI API key (you can get one [here](https://platform.openai.com/account/api-keys))
 
