@@ -1,4 +1,4 @@
-[![Gifted GPT](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=FF0B26&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted+Chat+GPT;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/giftedgpt)
+[![Gifted GPT](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=FF0B26&background=F7F2F20A&vCenter=true&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted+Chat+GPT;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/giftedgpt)
 
 <a href="https://giftedgpt.vercel.app">
   <h1 align="center">Gifted ChatGPT</h1>
@@ -14,6 +14,9 @@
   </a>
   <a href="https://github.com/Giftedmaurice/giftedgpt"><img src="https://img.shields.io/github/stars/steven-tey/chathn?style=social" alt="Gifted ChatGPT's GitHub Repo"></a>
 </p>
+ <h3>Gifted ChatGPT Stats</h3>
+
+![Giftd ChatGPT Stats](https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=giftedgpt&show_owner=true&theme=dark)
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
@@ -53,7 +56,7 @@ Here's how you can contribute:
 
 ## Author
 
-- Hello I AM ([@GiftedTech](https://wa.me/message/NHCZC5DSOEUXB1))
+- Hello I AM ([@GiftedTech](https://github.com/Giftedmaurice))
 
 ## License
 
